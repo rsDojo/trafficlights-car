@@ -1,0 +1,4 @@
+/.idea/
+*.iml
+/string-based/target/
+/string-based/.idea/
